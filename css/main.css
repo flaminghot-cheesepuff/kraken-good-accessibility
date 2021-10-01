@@ -24,7 +24,7 @@ img {
 }
 
 header {
-  background-image: url("../images/anchors.svg");
+  background-image: url("images/anchors.svg");
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
@@ -155,6 +155,6 @@ footer {
   display: flex;
   justify-content: center;
   padding: 1rem;
-  background-image: url("../images/anchors.svg");
+  background-image: url("images/anchors.svg");
   color: #fff;
 }
