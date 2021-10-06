@@ -50,7 +50,7 @@ article header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #259f95;
+  background-color: #259f95; /* #1e7c74 #259f95 */
   background-image: none;
   border-radius: 0 0 6px 6px;
   color: #fff;
